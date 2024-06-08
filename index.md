@@ -6,3 +6,7 @@
 # support vector machine algorithms
 from sklearn import svm
 ```
+# Task List
+- [X] Git
+- [ ] Tableau
+- [ ] AWS
